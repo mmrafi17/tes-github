@@ -1,3 +1,13 @@
-# this is a start line
-# this also star from checkpoint
-# this is a finish line
+# Readme.md
+
+Hellow Orld,
+Welcome to my github profile page
+
+CV:
+
+
+Profile:
+
+Portfolio:
+
+Etcetc
