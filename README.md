@@ -1,13 +1,5 @@
 # Readme.md
 
-Hellow Orld,
+Hello World,
+
 Welcome to my github profile page
-
-CV:
-
-
-Profile:
-
-Portfolio:
-
-Etcetc
